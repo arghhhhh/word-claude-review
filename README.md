@@ -11,6 +11,8 @@ It was built for litigation documents (pleadings, motions, letters) and catches:
 
 ## The buttons
 
+<img width="473" height="102" alt="claude-doc-review" src="https://github.com/user-attachments/assets/cb5725fb-8a6a-4657-ab5f-5d115a240696" />
+
 Everything is in a **Claude** group on Word's **Home** tab:
 
 | Button | What it does |
