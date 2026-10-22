@@ -1,6 +1,6 @@
 # Claude Review for Microsoft Word
 
-A Word add-in that adds a **Review Document** button. One click sends the open document to Claude for a proofread and legal review. The suggestions come back **inside the document as tracked changes and margin comments**, ready to accept or reject like any other redline.
+A Word add-in that adds a **Review Document** button. One click sends the open document to Claude for a proofread and legal review. The suggestions come back inside the document as tracked changes and margin comments, ready to accept or reject like any other redline.
 
 It was built for litigation documents (pleadings, motions, letters) and catches:
 
