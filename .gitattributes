@@ -1,0 +1,6 @@
+* text=auto
+# VBA modules and PowerShell scripts must keep Windows line endings
+*.bas text eol=crlf
+*.ps1 text eol=crlf
+*.dotm binary
+*.docx binary

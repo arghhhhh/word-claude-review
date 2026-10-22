@@ -1,0 +1,8 @@
+# Build output (installed to %APPDATA%\Microsoft\Word\STARTUP)
+*.dotm
+~$*
+
+# Temp / OS files
+*.tmp
+Thumbs.db
+desktop.ini
